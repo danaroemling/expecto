@@ -62,10 +62,6 @@ Investigates author eligibility and the feasibility of separating training and t
 
 Inspects cross-validation results and compares them with test performance.
 
-### inspect_svm_features.R
-
-Inspects the saved SVM models, XPOS n-gram feature matrices and associated metadata for the best-performing bigram and trigram configurations. Checks the availability of feature weights, author identifiers and story identifiers to prepare the analysis of individual grammatical preferences and their stability across stories.
-
 ## Requirements
 
 R packages:
