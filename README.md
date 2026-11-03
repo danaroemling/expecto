@@ -62,6 +62,10 @@ Investigates author eligibility and the feasibility of separating training and t
 
 Inspects cross-validation results and compares them with test performance.
 
+### inspect_svm_features.R
+
+Examines author-specific SVM feature weights for selected POS bigrams and trigrams across different minimum document-frequency thresholds.
+
 ## Requirements
 
 R packages:
